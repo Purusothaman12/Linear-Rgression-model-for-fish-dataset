@@ -1,5 +1,5 @@
 # Linear-Rgression-model-for-fish-dataset
-The fish dataset is been used analysis.In which dependent variable is weigth of fish.following are the process.
+The fish dataset is been used to analysis.In which dependent variable is weigth of fish.following are the process.
 1)EDA is done for dataset to clean the dataset and removing the outliers.
 2)checking the multicollinearity.
 3)Then storing dependent feature in y and independent features in x.
